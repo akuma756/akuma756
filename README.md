@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi my friends
 
 <!--
 **akuma756/akuma756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
